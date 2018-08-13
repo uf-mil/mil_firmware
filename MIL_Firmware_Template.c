@@ -41,7 +41,7 @@ int main(void){
 		uint8_t A = 1;
 		uint8_t B = 1;
 		
-		C = sumAB(A, B);
+		uint8_t C = sumAB(A, B);
 		
 		
 	}
