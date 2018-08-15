@@ -10,4 +10,6 @@ File Structure:
 | | +-C file
 | | +-Header file
 
+Intro to Git Crash Course:
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
